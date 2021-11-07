@@ -1,5 +1,5 @@
-# smart-parking-lot
-스마트 주차장
+# sumaro
+스마트 주차안내 서비스
 
 ## web-react
 
