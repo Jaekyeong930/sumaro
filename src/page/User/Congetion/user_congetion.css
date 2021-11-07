@@ -1,0 +1,60 @@
+
+
+#area {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-bottom: 0.1px;
+}
+.areas {
+    width: 394px;
+    height: 150px;
+    margin: 0 10px 10px 0;
+    border: 1px lightgray;
+    border-style: solid;
+    padding: 10px;
+}
+.areaName {
+    color: darkgray;
+    font-size: larger;
+    margin-bottom: 10px;
+}
+
+#space{
+    font-size: larger;
+}
+
+.allOfSpace_num {
+    font-size: larger;
+    color: rgb(0, 99, 248);
+    font-weight: bold;
+}
+
+.numOfSpace {
+    font-size: large;
+}
+.numOfSpace_num {
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(0, 99, 248);
+}
+.numOfSpace_0 {
+    font-size: large;
+    font-weight: bold;
+    color: rgb(206, 2, 2);
+}
+
+.text {
+    margin-top: 10px;
+    width: 180px;
+    text-align: center;
+    float: left;
+}
+.map {
+    width: 160px;
+}
+.map > img {
+    width: 180px;
+    height: 130px;
+}

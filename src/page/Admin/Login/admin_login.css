@@ -1,0 +1,61 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+}
+#login_background {
+    width: 1280px;
+    height: 800px;
+    /* padding-top: 100px; */
+}
+#login_logo {
+    width:  600px;
+    height: 120px;
+    margin-bottom: 150px;
+    background-image: url("../../../style/img/sumaro_text.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#login_explain {
+    margin-bottom: 30px;
+    font-size: xx-large;
+    font-family: 'Meiryo';
+    color: #333333;
+    
+}
+
+.admin_loginbox {
+    height: 43px;
+    width: 300px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    border-radius: 20px;
+    border: solid 1px gray;
+    font-size: larger;
+    text-align: left;
+}
+.admin_loginbox::placeholder {
+    color: rgb(195, 195, 195);
+  }
+
+
+.admin_loginbox:focus {
+    outline: none;
+
+}
+
+
+
+
+#admin_loginbtn {
+    height: 45px;
+    width: 305px;
+    border-radius: 20px;
+    border: solid 1px #0066FF;
+    background-color: #0066FF;
+    color: white;
+    font-size: large;
+}
+#admin_loginbtn:hover {
+    cursor: pointer;
+}
